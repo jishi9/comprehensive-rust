@@ -7,7 +7,7 @@ minutes: 10
 In this short exercise, you will implement a generic `min` function that
 determines the minimum of two values, using a `LessThan` trait.
 
-```rust,compile_fail
+```rust,compile_fail,editable
 {{#include exercise.rs:LessThan}}
 
 // TODO: implement the `min` function used in `main`.
